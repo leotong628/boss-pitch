@@ -1,6 +1,6 @@
 ---
 name: boss-pitch
-description: Creates a decision brief: question first, analogy, options by gain, risk, cost and reversibility, then a recommendation with its downside. Use for technical, security, budget or vendor decisions.
+description: "Creates a decision brief: question first, analogy, options by gain, risk, cost and reversibility, then a recommendation with its downside. Use for technical, security, budget or vendor decisions."
 license: MIT
 metadata:
   version: "1.1"
