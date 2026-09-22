@@ -1,7 +1,9 @@
 ---
 name: boss-pitch
-description: Help a busy decision-maker make a clear, informed choice without requiring your technical background.
+description: Creates a decision brief: question first, analogy, options by gain, risk, cost and reversibility, then a recommendation with its downside. Use for technical, security, budget or vendor decisions.
 license: MIT
+metadata:
+  version: "1.1"
 ---
 
 # Boss Pitch
